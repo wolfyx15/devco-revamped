@@ -1,0 +1,14 @@
+----List of mods (Alphabetical)---
+BdLib
+Chamelon
+Chisel
+Chisel and Bits
+connected textures mod
+custom main menu 
+inventory tweaks
+journey map
+JEI (Just enough Items)
+Mantle
+Mekanism (includes gens and tools)
+storage drawres
+tinkers construct
