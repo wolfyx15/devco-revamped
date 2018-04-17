@@ -1,15 +1,39 @@
 ----List of mods (Alphabetical)---
+Actually Additions
+Actually computers
+Applied Energistics 2
+aroma1997 core
+Aroma1997s Dimensional world
 BdLib
 Chamelon
 Chisel
 Chisel and Bits
+Codechick Lib 1.8+
+CoFH Core
+CoFH World
 connected textures mod
 custom main menu 
+Ender IO
+Ender Storage 1.8+
+Endercore
+Environmental Tech
+Extreme Reactors
+Immersive Engineering
 inventory tweaks
+Iron Chests
 journey map
 JEI (Just enough Items)
 Mantle
+McJtyLib
 Mekanism (includes gens and tools)
+OpenBlocks Elevator
+OpenComputers
+ReAuth
+Redstone Flux
+RFTools
 storage drawres
-tinkers construct
 The one probe
+Thermal Dyanics, Expansion, Foundation
+Tinkers Construct
+Valkyrie Lib
+ZeroCore
