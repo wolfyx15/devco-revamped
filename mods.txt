@@ -4,7 +4,10 @@ Actually computers
 Applied Energistics 2
 aroma1997 core
 Aroma1997s Dimensional world
+Baubles
 BdLib
+Biomes o' plently
+Botaina 
 Chamelon
 Chisel
 Chisel and Bits
@@ -18,6 +21,7 @@ Ender IO
 Ender Storage 1.8+
 Endercore
 Environmental Tech
+ET Lunar
 Extreme Reactors
 Immersive Engineering
 inventory tweaks
