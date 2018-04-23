@@ -6,6 +6,7 @@ aroma1997 core
 Aroma1997s Dimensional world
 Baubles
 BdLib
+Better Builder's Wands
 Biomes o' plently
 Botaina 
 Chamelon
@@ -22,6 +23,7 @@ Ender Storage 1.8+
 Endercore
 Environmental Tech
 ET Lunar
+Extra Utilities 
 Extreme Reactors
 Immersive Engineering
 inventory tweaks
