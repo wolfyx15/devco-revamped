@@ -25,6 +25,7 @@ Environmental Tech
 ET Lunar
 Extra Utilities 
 Extreme Reactors
+Galaticraft (includes core mods)
 Immersive Engineering
 inventory tweaks
 Iron Chests
