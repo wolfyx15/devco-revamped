@@ -1,3 +1,4 @@
+Forge Verision 14.23.5.2815
 ----List of mods (Alphabetical)---
 Actually Additions
 Actually computers
@@ -8,6 +9,7 @@ Baubles
 BdLib
 Better Builder's Wands
 Biomes o' plently
+Blue Power
 Botaina 
 Chamelon
 Chisel
@@ -34,6 +36,9 @@ JEI (Just enough Items)
 Mantle
 McJtyLib
 Mekanism (includes gens and tools)
+MicdoodleCore
+Natura
+NEI (Not enough items)
 OpenBlocks Elevator
 OpenComputers
 ReAuth
